@@ -1,12 +1,8 @@
 The Empathic Zen - A Generalized Zen of Coding
 ==============================================
-	Speakability counts.
-	Readability is better than ugly.
-	Pronounceability is better than Readability.
-	Speakability is better than Pronounceability.
+
 	Patterns aren't native to your domain but help to describe it. 
-	It won't be speakable, unless its native to your domain.
-	If the implementation is hard to read out loud, it's hard to explain.
+	If the implementation is hard to read, it's hard to explain.
 	If the implementation is hard to explain, it's a bad idea.
 	If the implementation is easy to explain, it may be a good idea.
 	Explicit is better than implicit.
